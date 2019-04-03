@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../msa-weather-eureka-server/msa-weather-eureka-server.iml" filepath="$PROJECT_DIR$/../msa-weather-eureka-server/msa-weather-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-cloud-demo-report/spring-cloud-demo-report.iml" filepath="$PROJECT_DIR$/../spring-cloud-demo-report/spring-cloud-demo-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-weahter-report-demo-full-version.iml" filepath="$PROJECT_DIR$/.idea/springcloud-weahter-report-demo-full-version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-parent/weather-parent.iml" filepath="$PROJECT_DIR$/weather-parent/weather-parent.iml" />
+    </modules>
+  </component>
+</project>
